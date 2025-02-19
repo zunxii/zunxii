@@ -1,5 +1,4 @@
-# 💫 About Me:
-Hey 👋, I am Junaid<br><br>I build Stuff...
+# 💫 Hey 👋, I am Junaid<br><br>I build Stuff...
 
 
 ## 🌐 Socials:
