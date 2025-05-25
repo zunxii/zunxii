@@ -1,23 +1,80 @@
-# 💫 Hey 👋, I am Junaid<br><br>I build Stuff...
+# 💫 Hey 👋, I am **Junaid** 
+### Software Engineer • *i build stuff...*
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/junaid-zunaid-164224283) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zunxii.2210@gmail.com) 
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=zunxii&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=zunxii&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=zunxii&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=zunxii&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="left">
+  <a href="https://linkedin.com/in/junaid-zunaid-164224283">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:zunxii.2210@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email"/>
+  </a>
+  <a href="https://github.com/zunxii">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub"/>
+  </a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=zunxii&icon=9&color=8)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🛠️ **Tech Stack**
+```yaml
+🏗️  Engineering:    Java • Python • TypeScript
+🤖  AI & ML:        TensorFlow • Data Science  
+⚡  Frontend:       Next.js • React
+☁️  Cloud:          AWS • Architecture
+📱  Mobile:         Expo • React-Native
+```
+
+**🎯 Current Focus:** *Building AI-powered applications & scalable cloud solutions*
+
+**💡 Philosophy:** *"Great software isn't just functional—it's elegant, scalable, and solves real problems."*
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=zunxii&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9&hide_title=true" width="450"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 📊 **Total Contributions**
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zunxii&bg_color=0d1117&color=79c0ff&line=58a6ff&point=79c0ff&area=true&hide_border=true&custom_title=Contribution%20Graph" width="90%"/>
+
+</div>
+
+---
+
+<table width="100%">
+<tr>
+<td width="50%" align="center" valign="top">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zunxii&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="100%"/>
+
+</td>
+<td width="50%" align="center" valign="top">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zunxii&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=79c0ff&currStreakLabel=58a6ff" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+### 🚀 **Let's Build Something Amazing Together**
+
+**Available for collaboration** • **Open to new opportunities**
+
+<a href="mailto:zunxii.2210@gmail.com">
+  <img src="https://img.shields.io/badge/Get%20In%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Get In Touch"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=zunxii&style=for-the-badge&color=blueviolet&label=Profile%20Views" alt="Profile Views"/>
+
+</div>
