@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero.svg" alt="junaid — software engineer. Building AI-powered apps and scalable cloud systems." width="100%">
+<img src="./hero.svg" alt="junaid — software engineer. Building AI-powered apps and scalable cloud systems." width="100%">
 
 </div>
 
